@@ -20,9 +20,9 @@ items:
  - YosysHQ/picorv32
  - tomverbeure/mr1
  - olofk/serv
- - chipsalliance/Cores-SweRV
- - chipsalliance/Cores-SweRV-EL2
- - chipsalliance/Cores-SweRV-EH2
+ - chipsalliance/Cores-VeeR-EH1
+ - chipsalliance/Cores-VeeR-EH1-EL2
+ - chipsalliance/Cores-VeeR-EH1-EH2
  - ultraembedded/biriscv
  - atthecodeface/cdl_hardware
  - Domipheus/RPU
