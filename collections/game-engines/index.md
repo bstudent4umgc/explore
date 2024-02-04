@@ -49,7 +49,7 @@ items:
  - KilledByAPixel/LittleJS
  - ppy/osu-framework
  - gosu/gosu
- - MikeHart66/cerberus
+ - PhilMoe/cerberus
  - ganelson/inform
  - hexops/mach
 display_name: Game Engines
